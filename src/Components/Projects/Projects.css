@@ -1,0 +1,12 @@
+.project-item-container {
+  margin: 40px;
+}
+.project-item {
+  display: flex;
+}
+.project-item {
+  margin: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
